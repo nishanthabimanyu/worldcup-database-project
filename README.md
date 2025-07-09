@@ -1,4 +1,5 @@
 Project Overview
+
 This project involves building a relational database to store information about World Cup games from 2014 onwards. It covers creating the database schema, populating it with data from a CSV file, and then querying that data to answer specific questions about the tournament.
 
 The core components are:
